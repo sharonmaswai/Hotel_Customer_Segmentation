@@ -1,9 +1,6 @@
 # Hotel_Customer_Segmentation
-A customer segmentation model using unsupervised machine learning clustering algorithm
 
-# Titanic_Survival_Prediction_and_Spam_Email_classification
-
-### By Sharon Maswai
+### By Sharon Maswai, Gideon Kipkorir, Machocho Mengo, Karen Ngugi
 
 ****************************************************************************************************************************
 ![hotels](https://q-cf.bstatic.com/images/hotel/max1024x768/172/172070682.jpg)
